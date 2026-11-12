@@ -640,6 +640,7 @@
 * ⭐ **[Messletters](https://www.messletters.com/)**
 * ⭐ **[FSymbols](https://fsymbols.com/generators/)**
 * ⭐ **[Fancy Text](https://fancy-text.net/)**
+* [Cool Fonts Generator Online](https://coolfontgenerator.app/)
 * [Cool Fonts Online](https://coolfont.org/)
 * [⁠Discord Fonts](https://discord-fonts.com/)
 * [⁠Fonti](https://fonti.cool/)
